@@ -194,10 +194,7 @@ Built with modern web technologies for the future of online auctions.
 
 ---
 
-<div align="center">
-
 **Made with ❤️ by Artify Team**
 
 _If you found this project helpful, please consider giving it a ⭐!_
 
-</div>
